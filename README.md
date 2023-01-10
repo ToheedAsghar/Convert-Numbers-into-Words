@@ -7,4 +7,4 @@ Then you can consider the following output: Seven Thousand Eight Hundred and Thi
 
 ### Things to Know
  - Input Numbers should be in the following Range: 0 - 99999
- - This means no negative numbers are allowed and input exceeding 99999 is considered invalid.
+ - This means no negative numbers are allowed and input exceeding 99999 is considered Invalid.
